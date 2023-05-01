@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliasgarchandan53
 - 👀 I’m interested in AI,ML and IoT projects as well.
-- 🌱 I’m currently learning Python and basics of AI-ML.
-- 💞️ I’m looking to collaborate on projects having python as their base. ...
+- 🌱 I’m currently learning Python ,C++, Data Structures and basics of ML.
+- 💞️ I’m looking forward to collaborate on projects having python as their base.
 - 📫 How to reach me:- my instagram handle is @itz_ahaan_here and you may mail me on: aliasgarchandan53@gmail.com
 
 <!---
