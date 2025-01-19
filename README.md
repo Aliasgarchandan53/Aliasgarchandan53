@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Backend development, Generative AI, Cloud computing**
 
-- 👨‍💻 All of my projects are available at [https://moodease.netlify.app/](https://moodease.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://moodease.netlify.app/)
 
 - 💬 Ask me about **Frontend technologies like React.js, Vue.js (Quasar 2), Appwrite, and backend API integrations**
 
-- 📫 How to reach me **aliasgar.shchandan@gmail.com**
+- 📫 How to reach me [Email](aliasgar.shchandan@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nCDRZlPiEMN_1ArPvQue-tbqDq8MW3u9/view?usp=sharing](https://drive.google.com/file/d/1nCDRZlPiEMN_1ArPvQue-tbqDq8MW3u9/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nCDRZlPiEMN_1ArPvQue-tbqDq8MW3u9/view?usp=sharing)
 
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
 
