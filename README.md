@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend technologies like React.js, Vue.js (Quasar 2), Appwrite, and backend API integrations**
 
-- 📫 How to reach me [Email](aliasgar.shchandan@gmail.com)
+- 📫 How to reach me **aliasgar.shchandan@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1nCDRZlPiEMN_1ArPvQue-tbqDq8MW3u9/view?usp=sharing)
 
