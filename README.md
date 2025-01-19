@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasgarchandan53&label=Profile%20views&color=0e75b6&style=flat" alt="aliasgarchandan53" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliasgarchandan53" alt="aliasgarchandan53" /></a> </p>
-
 - 🔭 I’m currently working on [MoodEase](https://moodease.netlify.app/)
 
 - 🌱 I’m currently learning **Backend development, Generative AI, Cloud computing**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://moodease.netlify.app/)
+- 👨‍💻 All of my projects are available [here](https://moodease.netlify.app/)
 
 - 💬 Ask me about **Frontend technologies like React.js, Vue.js (Quasar 2), Appwrite, and backend API integrations**
 
@@ -22,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandan_al15876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandan_al15876" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/ali-asgar-chandan-9806861b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ali-asgar-chandan-9806861b5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/aliasgarchandan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/aliasgarchandan1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/aliasgarchandan53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aliasgarchandan53/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-asgar-chandan-9806861b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-asgar-chandan-9806861b5" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aliasgarchandan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aliasgarchandan1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aliasgarchandan53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aliasgarchandan53" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasgarchandan53&show_icons=true&locale=en" alt="aliasgarchandan53" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aliasgarchandan53&" alt="Aliasgarchandan53" /></p>
