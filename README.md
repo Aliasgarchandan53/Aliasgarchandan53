@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **aliasgar.shchandan@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nCDRZlPiEMN_1ArPvQue-tbqDq8MW3u9/view?usp=sharing)
-
 - ⚡ Fun fact **Debugging is like being the detective in a crime movie where you’re also the murderer.**
 
 <h3 align="left">Connect with me:</h3>
