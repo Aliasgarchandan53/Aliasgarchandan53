@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliasgarchandan53&show_icons=true&locale=en" alt="aliasgarchandan53" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aliasgarchandan53&" alt="Aliasgarchandan53" /></p>
+<!-- commit streak not working <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aliasgarchandan53&" alt="Aliasgarchandan53" /></p>-->
